@@ -33,7 +33,7 @@
     "primary": {
       "type": "button",
       "label": "Home",
-      "href": "/"
+      "href": "https://puredot.com"
     }
   },
   "footer": {
