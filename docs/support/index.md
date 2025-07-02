@@ -1,23 +1,17 @@
 ---
 title: "Support Playbooks"
-description: "AI-ready support playbooks generated from customer tickets"
+description: "AI-ready guides auto-generated from Re:amaze"
+sidebar_position: 1
 ---
 
-# Support Playbooks
+| Issue | Tickets | Neg-CSAT |
+|---|---|---|
+| [Cancel Refund Requests](cancel-refund-requests.md) | 1 | 0 % |
+| [Shipping Delay Issues](shipping-delay-issues.md) | 1 | 100 % |
+| [Wrong Product Issues](wrong-product-issues.md) | 1 | 100 % |
+| [Cancel Refund Requests](cancel-refund-requests.md) | 1 | 100 % |
+| [Address Change Requests](address-change-requests.md) | 1 | 0 % |
 
-This section contains AI-ready support playbooks generated from analysis of customer support tickets.
-
-## Playbooks by Volume
-
-- **[Subject Support](/docs/support/subject-support)** - 49 tickets (90.7%)
-- **[Subject Support](/docs/support/subject-support)** - 5 tickets (9.3%)
-
-## Quick Stats
-
-- **Total Tickets Analyzed**: 54
-- **Average CSAT**: 0.0%
-- **Return Rate**: 0.0%
-
-## Knowledge Gaps
-
-
+---
+*Last updated: 2025-07-02*
+*Total tickets analyzed: 5*

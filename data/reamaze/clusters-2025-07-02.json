@@ -1,0 +1,85 @@
+{
+  "date": "2025-07-02",
+  "total_clusters": 5,
+  "clusters": [
+    {
+      "slug": "cancel-refund-requests",
+      "title": "Cancel Refund Requests",
+      "ticket_total": 1,
+      "ticket_pct": 20,
+      "neg_csat_pct": 0,
+      "refund_pct": 100,
+      "median_first_response_sec": 180,
+      "sample_queries": [
+        "Order cancellation request"
+      ],
+      "common_tags": [
+        "cancel",
+        "refund"
+      ]
+    },
+    {
+      "slug": "shipping-delay-issues",
+      "title": "Shipping Delay Issues",
+      "ticket_total": 1,
+      "ticket_pct": 20,
+      "neg_csat_pct": 100,
+      "refund_pct": 0,
+      "median_first_response_sec": 360,
+      "sample_queries": [
+        "Where is my order?"
+      ],
+      "common_tags": [
+        "shipping",
+        "delay"
+      ]
+    },
+    {
+      "slug": "wrong-product-issues",
+      "title": "Wrong Product Issues",
+      "ticket_total": 1,
+      "ticket_pct": 20,
+      "neg_csat_pct": 100,
+      "refund_pct": 100,
+      "median_first_response_sec": 240,
+      "sample_queries": [
+        "Wrong product received"
+      ],
+      "common_tags": [
+        "wrong_product",
+        "exchange"
+      ]
+    },
+    {
+      "slug": "cancel-refund-requests",
+      "title": "Cancel Refund Requests",
+      "ticket_total": 1,
+      "ticket_pct": 20,
+      "neg_csat_pct": 100,
+      "refund_pct": 100,
+      "median_first_response_sec": 300,
+      "sample_queries": [
+        "Damaged item"
+      ],
+      "common_tags": [
+        "damaged",
+        "refund"
+      ]
+    },
+    {
+      "slug": "address-change-requests",
+      "title": "Address Change Requests",
+      "ticket_total": 1,
+      "ticket_pct": 20,
+      "neg_csat_pct": 0,
+      "refund_pct": 0,
+      "median_first_response_sec": 120,
+      "sample_queries": [
+        "Change shipping address"
+      ],
+      "common_tags": [
+        "address_change"
+      ]
+    }
+  ]
+}
