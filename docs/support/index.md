@@ -9,9 +9,8 @@ This section contains AI-ready support playbooks generated from analysis of cust
 
 ## Playbooks by Volume
 
-- **[Subject](/docs/support/subject)** - 44 tickets (81.5%)
-- **[Subject](/docs/support/subject)** - 7 tickets (13.0%)
-- **[Subject](/docs/support/subject)** - 3 tickets (5.6%)
+- **[Subject Support](/docs/support/subject-support)** - 49 tickets (90.7%)
+- **[Subject Support](/docs/support/subject-support)** - 5 tickets (9.3%)
 
 ## Quick Stats
 
@@ -21,4 +20,4 @@ This section contains AI-ready support playbooks generated from analysis of cust
 
 ## Knowledge Gaps
 
-- **Subject** - 44 tickets need documentation
+
