@@ -16,6 +16,17 @@
           {
             "group": "Get Started",
             "pages": ["index"]
+          },
+          {
+            "group": "Support Playbooks",
+            "pages": [
+              "docs/support/index",
+              "docs/support/cancel-refund-requests",
+              "docs/support/shipping-delay-issues",
+              "docs/support/wrong-product-issues",
+              "docs/support/damaged-item-claims",
+              "docs/support/address-change-requests"
+            ]
           }
         ]
       }
