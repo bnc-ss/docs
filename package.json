@@ -1,0 +1,34 @@
+{
+  "name": "boxncase-docs",
+  "version": "1.0.0",
+  "description": "BoxNCase documentation with Re:amaze ticket analysis",
+  "main": "index.js",
+  "scripts": {
+    "reamaze:analyze": "ts-node scripts/reamaze_analyze.ts",
+    "reamaze:docs": "ts-node scripts/reamaze_generate_docs.ts",
+    "build": "tsc",
+    "dev": "ts-node --watch scripts/reamaze_analyze.ts"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "openai": "^4.28.0",
+    "ml-kmeans": "^5.0.0",
+    "parquetjs": "^0.11.2",
+    "gray-matter": "^4.0.3",
+    "sqlite3": "^5.1.6",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10",
+    "natural": "^6.10.4",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash": "^4.14.202",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  },
+  "keywords": ["documentation", "support", "reamaze", "analysis"],
+  "author": "BoxNCase Team",
+  "license": "MIT"
+} 

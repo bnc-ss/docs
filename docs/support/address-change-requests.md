@@ -19,23 +19,23 @@ sample_queries:
 **Refund impact**: 0 %
 
 ## Problem
-Customer has a general inquiry or support request that needs assistance.
+Customer needs to update their shipping address for an existing order.
 
 ## Step-by-Step Resolution
-1. Acknowledge customer inquiry
-2. Gather necessary information
-3. Provide appropriate solution
-4. Confirm resolution
-5. Follow up if needed
+1. Verify order is still in processing
+2. Check cut-off time for address changes
+3. Update shipping address in system
+4. Confirm new address with customer
+5. Update tracking information
 
 ## Preventive Tips
-- Provide clear communication
-- Set realistic expectations
-- Follow up proactively
-- Document all interactions
+- Allow address changes during processing
+- Set clear cut-off times
+- Provide order confirmation details
+- Use address verification tools
 
 ## Sample Agent Reply
-> Hi {{customer_name}}, Thank you for reaching out. I'm here to help you with your inquiry.
+> Hi {{customer_name}}, I'd be happy to help you update your shipping address. Let me check if we can still make this change.
 
 ## Refund / Exchange Eligibility <span id="refund-policy"></span>
 Standard refund and exchange policies apply. Please refer to our [refund policy](refund-cancel-flow.md) for detailed information.
@@ -46,5 +46,5 @@ Email **CX Escalations** → internal@boxncase.com
 ---
 ### AI Hints
 *synonyms*:   
-*root_causes*: process gaps, communication issues, system limitations  
-*linked_articles*: subject-support.md
+*root_causes*: customer oversight, system limitations, timing constraints  
+*linked_articles*: carrier-delay-tracking.md

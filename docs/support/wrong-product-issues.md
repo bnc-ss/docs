@@ -19,26 +19,28 @@ sample_queries:
 **Refund impact**: 100 %
 
 ## Problem
-Customer has a general inquiry or support request that needs assistance.
+Customer received a different product than what they ordered.
 
 ## Step-by-Step Resolution
-1. Acknowledge customer inquiry
-2. Gather necessary information
-3. Provide appropriate solution
-4. Confirm resolution
-5. Follow up if needed
+1. Verify order details vs received items
+2. Request photos of received product and packaging
+3. Process exchange or replacement
+4. Arrange return shipping if necessary
+5. Confirm resolution with customer
 
 ## Preventive Tips
-- Provide clear communication
-- Set realistic expectations
-- Follow up proactively
-- Document all interactions
+- Double-check order accuracy
+- Use clear product descriptions
+- Implement quality control checks
+- Provide detailed packing lists
 
 ## Sample Agent Reply
-> Hi {{customer_name}}, Thank you for reaching out. I'm here to help you with your inquiry.
+> Hi {{customer_name}}, I apologize for the mix-up. Let me help you get the correct product. Could you please send me a photo of what you received?
 
 ## Refund / Exchange Eligibility <span id="refund-policy"></span>
 Standard refund and exchange policies apply. Please refer to our [refund policy](refund-cancel-flow.md) for detailed information.
+
+**Required**: Please photograph the SKU and packaging for verification.
 
 ## Escalation
 Email **CX Escalations** → internal@boxncase.com
@@ -46,5 +48,5 @@ Email **CX Escalations** → internal@boxncase.com
 ---
 ### AI Hints
 *synonyms*:   
-*root_causes*: process gaps, communication issues, system limitations  
-*linked_articles*: subject-support.md
+*root_causes*: picking errors, packaging mistakes, system errors  
+*linked_articles*: oos-substitution-general.md, refund-cancel-flow.md

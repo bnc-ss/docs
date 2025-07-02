@@ -51,8 +51,8 @@
       ]
     },
     {
-      "slug": "cancel-refund-requests",
-      "title": "Cancel Refund Requests",
+      "slug": "damaged-item-claims",
+      "title": "Damaged Item Claims",
       "ticket_total": 1,
       "ticket_pct": 20,
       "neg_csat_pct": 100,

@@ -19,23 +19,23 @@ sample_queries:
 **Refund impact**: 0 %
 
 ## Problem
-Customer has a general inquiry or support request that needs assistance.
+Customer is experiencing delays in shipping and wants to know where their order is.
 
 ## Step-by-Step Resolution
-1. Acknowledge customer inquiry
-2. Gather necessary information
-3. Provide appropriate solution
-4. Confirm resolution
-5. Follow up if needed
+1. Check order status and tracking information
+2. Verify shipping address and carrier details
+3. Provide real-time tracking updates
+4. Offer alternative solutions if needed
+5. Follow up until delivery confirmation
 
 ## Preventive Tips
-- Provide clear communication
-- Set realistic expectations
-- Follow up proactively
-- Document all interactions
+- Use reliable shipping partners
+- Provide proactive shipping updates
+- Set realistic delivery timelines
+- Offer expedited shipping options
 
 ## Sample Agent Reply
-> Hi {{customer_name}}, Thank you for reaching out. I'm here to help you with your inquiry.
+> Hi {{customer_name}}, I can see you're waiting for your order. Let me check the current tracking status and get you an update.
 
 ## Refund / Exchange Eligibility <span id="refund-policy"></span>
 Standard refund and exchange policies apply. Please refer to our [refund policy](refund-cancel-flow.md) for detailed information.
@@ -46,5 +46,5 @@ Email **CX Escalations** → internal@boxncase.com
 ---
 ### AI Hints
 *synonyms*:   
-*root_causes*: process gaps, communication issues, system limitations  
-*linked_articles*: subject-support.md
+*root_causes*: carrier issues, inventory delays, processing time  
+*linked_articles*: carrier-delay-tracking.md, temperature-sensitive-shipping.md
